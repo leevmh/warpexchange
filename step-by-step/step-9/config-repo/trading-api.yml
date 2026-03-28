@@ -1,4 +1,0 @@
-# Trading API:
-
-server:
-  port: ${APP_PORT:8001}
